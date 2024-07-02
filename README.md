@@ -1,4 +1,4 @@
-Source code for complete backend for LogicLearn built using ExpressJS.  
+Source code for complete backend for LogicLearn built using Express.  
 
 Database used - MongoDB  
 
